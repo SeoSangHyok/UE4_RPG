@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F9B5486C-4B5A-FB32-A2BC-349965765769}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "StudyRPG_Rev2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"CoreUObject",
+				"AIModule",
+				"UMG"
+			]
+		}
+	]
+}

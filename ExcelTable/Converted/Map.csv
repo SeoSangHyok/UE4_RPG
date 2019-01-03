@@ -1,0 +1,3 @@
+,ID,MapPath,MapName,Thumbnail,LoadingImage,TargetMonster
+1,1,/Game/Map/Map1,Ice Land,/Game/Img/Map1,/Game/Img/Map1_Preview,4
+2,2,/Game/Map/Map2,Grass Land,/Game/Img/Map2,/Game/Img/Map2_Preview,3

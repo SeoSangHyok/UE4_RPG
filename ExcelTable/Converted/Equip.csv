@@ -1,0 +1,6 @@
+,ID,MeshType,Mesh,AttatchedSocket,Loc_X,Loc_Y,Loc_Z,Rot_X,Rot_Y,Rot_Z
+11,11,Static,/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Meshes/SM_Troll_hammer,b_MF_Weapon_R_Socket,0,0,0,0,0,0
+21,21,Static,/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/Meshes/Troll_Helmet_Internal,b_MF_Head_Socket,4.5,-15,0,90,0,0
+1001,1001,Skeletal,/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_Fencer/SK_Blade_Fencer,hand_r_Socket,0,0,0,0,0,0
+1002,1002,Skeletal,/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_HeroSword16/SK_Blade_HeroSword16,hand_r_Socket,0,0,0,0,0,0
+1003,1003,Skeletal,/Game/InfinityBladeWeapons/Weapons/Blade/Swords/Blade_HeroSword17/SK_Blade_HeroSword17,hand_r_Socket,0,0,0,0,0,0

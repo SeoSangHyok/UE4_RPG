@@ -1,0 +1,4 @@
+,ID,SkeletalMesh,AnimationBP,DefaultRotateYaw,CapsuleHalfHeight,CapsuleRadius,Skill_Melee,Skill_Range,Skill_Melee_Move,Weapon,HP,Thumbnail,CharacterName
+1000,1000,/Game/Character/SK_CharM_Cardboard,/Game/Anim/Character/CharacterAnimBP1,-90,90,40,1100,2000,1000,1001,500,/Game/Img/Thumb_Cardboard,CardMan
+2000,2000,/Game/Character/SK_CharM_FrostGiant,/Game/Anim/Character/CharacterAnimBP1,-90,100,50,1100,2000,1000,1002,500,/Game/Img/Thumb_Frost,FrostMan
+3000,3000,/Game/Character/SK_CharM_Warrior,/Game/Anim/Character/CharacterAnimBP1,-90,110,60,1100,2000,1000,1003,500,/Game/Img/Thumb_Warrior,Warrior

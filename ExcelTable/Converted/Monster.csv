@@ -1,0 +1,5 @@
+,ID,SkeletalMesh,DefaultRotateYaw,CapsuleHalfHeight,CapsuleRadius,AnimationBP,BehaviourTree,Skill1,Skill2,Skill3,Weapon,Armor,HP,Speed
+1,1,/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/SK_Troll_Poison,-90,140,90,/Game/Anim/Mob3/Enemy_Troll_Poison_Animation/ABP_Mob3,/Game/AI/Mob3_BehaviourTree,11002,0,0,0,0,150,350
+2,2,/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/SK_Troll_Poison,-90,140,90,/Game/Anim/Mob3/Enemy_Troll_Poison_Animation/ABP_Mob3,/Game/AI/Mob1_BehaviourTree,11002,0,0,0,21,300,300
+3,3,/Game/InfinityBladeAdversaries/Enemy/Enemy_Greater_Spider_Boss/SK_Greater_Spider_Boss,-90,130,110,/Game/Anim/BossRetaget/Enemy_SpiderGreater_Animation/ABP_BossSpider,/Game/AI/Boss_BehaviourTree,31001,31002,31003,0,0,3000,450
+4,4,/Game/InfinityBladeAdversaries/Enemy/Enemy_Troll/SK_Troll_Poison,-90,140,90,/Game/Anim/Mob3/Enemy_Troll_Poison_Animation/ABP_Mob3,/Game/AI/Mob3_BehaviourTree,11001,11002,0,11,21,2000,250

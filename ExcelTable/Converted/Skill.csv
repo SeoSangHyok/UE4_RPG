@@ -1,0 +1,9 @@
+,ID,AnimMontage,StartSectionName,UseEnableIdle,UseEnableJump,CoolTime,Damage
+1000,1000,/Game/Anim/Character/Skill_Melee_Move1,AttackBegin,1,1,0,50
+2000,2000,/Game/Anim/Character/Skill_Range1,AttackBegin,1,0,0,20
+1100,1100,/Game/Anim/Character/Skill_Melee_Stay1,AttackBegin,1,0,0,1000
+11001,11001,/Game/Anim/Mob3/Enemy_Troll_Poison_Animation/Skill1,AttackBegin,1,0,2,200
+11002,11002,/Game/Anim/Mob3/Enemy_Troll_Poison_Animation/Skill2,AttackBegin,1,0,1,30
+31001,31001,/Game/Anim/BossRetaget/Enemy_SpiderGreater_Animation/Skill3,AttackBegin,1,0,4,500
+31002,31002,/Game/Anim/BossRetaget/Enemy_SpiderGreater_Animation/Skill1,AttackBegin,1,0,2,150
+31003,31003,/Game/Anim/BossRetaget/Enemy_SpiderGreater_Animation/Skill2,AttackBegin,1,0,2,150
